@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+
+# Logs
+*.log

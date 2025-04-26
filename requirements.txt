@@ -1,0 +1,5 @@
+streamlit
+groq
+careerjet-api
+python-dotenv
+requests
