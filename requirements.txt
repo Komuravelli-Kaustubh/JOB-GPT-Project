@@ -1,5 +1,5 @@
 streamlit
 groq
-careerjet-api
+careerjet_api
 python-dotenv
 requests
